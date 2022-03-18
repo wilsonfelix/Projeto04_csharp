@@ -1,0 +1,15 @@
+D:\Projetos\Projetos_csharp\Projeto04_csharp\bin\Debug\net6.0\Projeto04_csharp.exe
+D:\Projetos\Projetos_csharp\Projeto04_csharp\bin\Debug\net6.0\Projeto04_csharp.deps.json
+D:\Projetos\Projetos_csharp\Projeto04_csharp\bin\Debug\net6.0\Projeto04_csharp.runtimeconfig.json
+D:\Projetos\Projetos_csharp\Projeto04_csharp\bin\Debug\net6.0\Projeto04_csharp.dll
+D:\Projetos\Projetos_csharp\Projeto04_csharp\bin\Debug\net6.0\Projeto04_csharp.pdb
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\Projeto04_csharp.csproj.AssemblyReference.cache
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\Projeto04_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\Projeto04_csharp.AssemblyInfoInputs.cache
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\Projeto04_csharp.AssemblyInfo.cs
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\Projeto04_csharp.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\Projeto04_csharp.dll
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\refint\Projeto04_csharp.dll
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\Projeto04_csharp.pdb
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\Projeto04_csharp.genruntimeconfig.cache
+D:\Projetos\Projetos_csharp\Projeto04_csharp\obj\Debug\net6.0\ref\Projeto04_csharp.dll
